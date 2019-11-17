@@ -1,0 +1,7 @@
+[package]
+name = "toroidal"
+version = "0.1.0"
+authors = ["Isaac Grosof <isaacb227@gmail.com>"]
+edition = "2018"
+
+[dependencies]
